@@ -17,3 +17,10 @@ https://elegant-dark-theme-w-qz60.bolt.host/
 
 FoodDash:
 https://fooddash0.netlify.app/
+
+
+Lumina-Digital:
+https://lumina-dev0.netlify.app/
+
+Silence:
+https://silenceo-dev.netlify.app/
