@@ -28,3 +28,7 @@ https://silenceo-dev.netlify.app/
 
 DocAI:
 https://ai-docs.netlify.app/
+
+
+Juice:
+https://juice-app0.netlify.app/
